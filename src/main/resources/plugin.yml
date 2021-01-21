@@ -1,0 +1,7 @@
+name: Catan
+version: ${project.version}
+main: fusselface.catan.Catan
+api-version: 1.16
+load: POSTWORLD
+authors: [ FusselFace ]
+description: Catan Game
