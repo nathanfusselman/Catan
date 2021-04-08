@@ -10,7 +10,6 @@ public class TileObject {
     public TileObject(GameSession gameSession, int num) {
         value = 0;
         type = TILETYPE.Desert;
-        switch ()
         centerPoint = gameSession.getCenterPoint().add()
         buildTile();
     }
